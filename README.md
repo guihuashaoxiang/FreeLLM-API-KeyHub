@@ -1,5 +1,5 @@
 # FreeLLM-API-KeyHub 🆓
-
+本项目旨在整理可免费调用大模型API的服务商资源，特别关注Deepseek R1/V3的免费调用渠道。持续更新中...
 实时追踪大模型平台免费资源 | [English](README_EN.md) | [更新日志](#更新日志) | [提交情报](CONTRIBUTING.md)
 
 实时追踪国内外大模型厂商的**免费API资源**与**限时模型调用**情报
