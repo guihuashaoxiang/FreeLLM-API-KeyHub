@@ -4,7 +4,7 @@
 
 实时追踪国内外大模型厂商的**免费API资源**与**限时模型调用**情报
 ⚠️ 本仓库不提供任何API Key，仅汇总官方公开的免费资源信息 ⚠️
-
+文档可以延时，第一时间在线文档更新：[文档共享链接地址](https://kdocs.cn/l/cezjXYdUR1dl)
 | 平台       | 地址                                                                 | 免费token数          | 限时           | 限时免费体验模型                          | 备注（活动）                                                                 |
 |------------|--------------------------------------------------------------------|----------------------|----------------|-------------------------------------------|------------------------------------------------------------------------------|
 | 天翼云     | [https://www.ctyun.cn/act/xirang/deepseek](https://www.ctyun.cn/act/xirang/deepseek) | 2500万               | 两周           | 无                                         | 模型ID调用<br>内容审查比较严重                                               |
@@ -20,3 +20,4 @@
 | 英伟达     | [https://build.nvidia.com/explore/discover](https://build.nvidia.com/explore/discover) | 前一千次调用免费     | ？             | ？                                         |                                                                              |
 | 讯飞星辰   | [https://training.xfyun.cn/modelSquare](https://training.xfyun.cn/modelSquare) | Deepseek R1/V3免费调用到2025年3月10号 | ？             | ？                                         |                                                                              |
 | 欧派算力云 | [https://ppinfra.com/user/register?invited_by=HPU4F4](https://ppinfra.com/user/register?invited_by=HPU4F4) | 邀请注册双方各得50¥代金券（约 5000 万 tokens） | ？             | Deepseek R1/V3未付费只能用社区版           |                                                                              |
+
