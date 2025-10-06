@@ -24,6 +24,9 @@
 | 腾讯混元 | [cloud.tencent.com](https://cloud.tencent.com/document/product/1729/97731) | 100万（共享消耗） | 1年 | 自家混元模型共享消耗1年一百万<br>体验说明地址<br>其它模型活动未查看，有请反馈 | Deepseek R1/V3免费调用至北京时间2025年2月25日23:59:59 | ![图1](assets/images/clip_cell_image12.png) | |
 | 火山引擎 | [www.volcengine.com](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=SYKEHGED) | 50万（每个模型） | 无 | ~~拉人注册送30￥大模代金券（无需实名）<br>送被邀请15￥（自己注册无）<br>邀请用户付费再送100￥<br>约可抵扣750万R1模型tokens<br>速度比较快后悔没有多撸点，几百狠狠用~~ | 如“图2”还可以参加“协作”活动<br>出卖自己数据，每天每个模型免费50万额度 | ![图1](assets/images/clip_cell_image2.png) | ![图2](assets/images/clip_cell_image3.png) |
 | 百度千帆 | [cloud.baidu.com](https://cloud.baidu.com/product-s/qianfan_home) | 注册送20元 | 1月 | 注册后自动送<br>转换为tokens最多能用1000000+tokens | 送的20我是一点都没用啊 | ![图1](assets/images/clip_cell_image15.png) | |
+| Google AI Studio | [aistudio.google.com](https://aistudio.google.com) | | | Google大善人，期待gemini3.0中 | 不可用不用 | | |
+| 魔塔社区 | [https://modelscope.cn/](https://modelscope.cn/) | | | 每天免费调用2000次，应该不含高并发，优先级也比较低 | 我基本不用 | ![魔塔社区图1](./README.assets/%E9%AD%94%E5%A1%94%E7%A4%BE%E5%8C%BA.png) | |
+| OpenRouter | [https://openrouter.ai/](https://openrouter.ai/) | | | 未充值的纯免费用户，每日免费调用次数被下调至50次，且每分钟请求上限为20次。这使得免费使用仅适合轻度使用者或体验者。 | 我基本不用 | | |
 | ~~华为云~~ | ~~[activity.huaweicloud.com](https://activity.huaweicloud.com/maas-ds.html)~~ | ~~200万（每个模型）~~ | ~~无~~ | ~~现没明确看见，有请联系我更新<br>一个模型一个接口地址<br>已更新Deepseek V3 0324版~~ | ~~无~~ | ![图1](assets/images/clip_cell_image6.png) | |
 | ~~英伟达~~ | ~~[build.nvidia.com](https://build.nvidia.com/explore/discover)~~ | ~~前一千次调用免费~~ | | ~~没怎么用，依旧有效可联系~~ | | | |
 
