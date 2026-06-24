@@ -6,16 +6,16 @@
 实时追踪国内大模型厂商的**免费API资源**与**限时模型调用**情报
 ⚠️ 本仓库不提供任何API Key，仅汇总官方公开的免费资源信息 ⚠️
 
-> **👉 建议查看在线文档：[点击访问在线文档（第一时间更新）](https://my.feishu.cn/wiki/PrlGwiZDAiKzUYklstqcQyXsnrh?from=from_copylink)**
+> **👉 国内飞书在线文档：[https://my.feishu.cn/wiki/PrlGwiZDAiKzUYklstqcQyXsnrh](https://my.feishu.cn/wiki/PrlGwiZDAiKzUYklstqcQyXsnrh)**
 
-> **👉 GitHub 开源地址：[FreeLLM-API-KeyHub](https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub)**
+> **👉 GitHub 开源地址：[https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub](https://github.com/guihuashaoxiang/FreeLLM-API-KeyHub)**
 
 **✨ 有其他可以白嫖的资源欢迎提交issues或PR！✨**
 
 🤖 **全自动龙虾托管声明** 🦞🦞🦞
 
 >
-> 声明：本项目正被 **OpenClaw 龙虾智能体** 日夜自动监控与维护。所有的情报收集、线索验证及文档更新，均由系统自动抓取完成——一切只是为了“养龙虾”。
+> 声明：本项目正被 **OpenClaw 龙虾智能体** 日夜自动监控与维护。所有的情报收集、线索验证及文档更新，均由系统自动抓取完成——一切只是为了“~~养龙虾~~”？
 >
 > **【提交即反馈】** 欢迎大家疯狂提交 Issues 或 PR 薅羊毛情报，OpenClaw 将自动接单处理！
 > **【天梯排行榜】** 预告：我们将根据大家提交的情报和真实反馈，由小龙虾裁判生成平台天梯榜，等级从巅峰的 `[🏆 夯爆了]`、`[🥇 人上人]`，一直排到准备被踢出群聊的 `[🗑️ 拉完了]`，敬请期待！
