@@ -685,6 +685,21 @@
 | **备注** | 付费模型需充值点数 |
 
 ---
+### 48. NovAI（aiapi-pro.com）
+
+| 字段 | 详情 |
+|------|------|
+| **平台名称** | [NovAI](https://aiapi-pro.com/?utm_source=freekeyhub&utm_medium=listing&utm_campaign=part1) |
+| **注册福利** | 注册送 **$2** 体验额度（14 天有效，无需信用卡） |
+| **永久免费额度** | 5 个模型免费调用：`glm-4.7-flash`、`glm-4.1v-thinking-flash`、`glm-4.6v-flash`、`cogview-3-flash`（图像）、`cogvideox-flash`（视频）；**10 次/天**、5 RPM |
+| **有效期** | 免费额度长期有效；$2 体验额度 14 天，不计入免费层 |
+| **邀请/拉新奖励** | 无（平台不运营返利计划） |
+| **学生福利** | 未查到 |
+| **前置条件** | 邮箱注册即可，无需信用卡、无需实名 |
+| **备注** | OpenAI 兼容接口 `https://aiapi-pro.com/v1`；111 个中国模型，0% 平台加价（透传官方价），支持信用卡与 USDT。额度见 [transparency](https://aiapi-pro.com/transparency.html)，价格见 [china-ai-leaderboard.json](https://aiapi-pro.com/china-ai-leaderboard.json) |
+
+---
+
 ## Part 2：编程订阅计划对比（Coding Plan / 编程套餐）
 
 > 以下平台提供面向 AI 编程场景的**包月/订阅计划**，固定月费提供大量 API 调用额度。
