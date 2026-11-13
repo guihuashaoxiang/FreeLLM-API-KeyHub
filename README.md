@@ -858,6 +858,7 @@
 
 - **[One-API](https://github.com/songquanpeng/one-api)**: 一个功能强大的开源API接口管理与分发系统，社区最流行的选择。
 - **[New-API](https://github.com/QuantumNous/new-api)**: One-API 的一个优秀替代品，旨在统一管理各类大模型 API。
+- **[TokenMost](https://tokenmost.com)**: AI 大模型免费额度与折扣码情报站，每日人工核验各平台免费额度、折扣码与试用活动，每条情报标注来源链接与核实日期，支持一键接入代码生成与额度比价。
 
 ---
 
